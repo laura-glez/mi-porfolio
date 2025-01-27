@@ -1,0 +1,22 @@
+body{
+    background-color: lavender;
+}
+h1{
+    font-family: sans-serif;
+    color: #f3a909;
+    font: 48px;
+    font-weight: bold;
+    margin:  0 3em 0 3em;
+}
+p, li{
+    font-family: sans-serif;
+    color: #292829;
+    margin: 3em;
+}
+div{
+    float: left;
+}
+img{
+    width: 300px;
+    margin: 3em;
+}
